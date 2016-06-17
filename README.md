@@ -1,7 +1,7 @@
 STM32F4 Full Template
 =====================
 
-A code template for STM32F4 series processors with full DPS and StdPerph libraries.
+A code template for STM32F4 series processors with full DSP and StdPerph libraries.
 
 This Template:
 - Defines interrupt table at the start of Flash memory
