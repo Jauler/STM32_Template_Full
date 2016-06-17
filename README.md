@@ -1,7 +1,7 @@
-STM32F4 Tiny Template
+STM32F4 Full Template
 =====================
 
-A tiny code template for STM32F4 series processors.
+A code template for STM32F4 series processors with full DPS and StdPerph libraries.
 
 This Template:
 - Defines interrupt table at the start of Flash memory
