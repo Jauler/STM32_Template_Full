@@ -5,6 +5,7 @@ A tiny code template for STM32F4 series processors.
 
 This Template:
 - Defines interrupt table at the start of Flash memory
+- Builds full DSP and StdPeriph from sources
 - Initializes stack on CCM memory
 - Initializes .data
 - Initializes .bss to zero
