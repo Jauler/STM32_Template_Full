@@ -16,6 +16,7 @@ CFLAGS+=-DUSE_STDPERIPH_DRIVER
 
 LDFLAGS+=-TSTM32_flash.ld
 LDFLAGS+=-nostartfiles
+LDFLAGS+=-mcpu=cortex-m4
 LDFLAGS+=-mthumb
 LDFLAGS+=-g
 LDFLAGS+=-lm
